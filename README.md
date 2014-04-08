@@ -23,9 +23,9 @@ Parameters
 Usage
 ===
 <ul>
-<li>Unzip realease.zip to the directory of you choice. Make sure there is enough space to cache the HLS stream. (~500mb free space)</li>
-<li>Edit start.bat and change parameters accordingly</li>
-<li>Run start.bat</li>
+<li>Unzip "realease.zip" to the directory of you choice. Make sure there is enough space to cache the HLS stream. (~500mb free space)</li>
+<li>Edit "start.bat" and change parameters accordingly</li>
+<li>Run "start.bat"</li>
 <li>Point the <a href="https://github.com/computmaxer/roku-hdhomerun">Roku-HDHomerun</a> channel to the HDR host</li>
 </ul>
 
