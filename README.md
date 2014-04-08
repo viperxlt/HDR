@@ -35,7 +35,7 @@ The channel logo names are automatically generated according to the channel name
 
 Favorites
 ===
-Favorites are enabled in the HDHomerunPlus interface website.
+Channel favorites are enabled in the HDHomerunPlus interface website.
 
 
 
