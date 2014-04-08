@@ -31,7 +31,7 @@ Usage
 
 Logos
 ===
-The channel logo names are automatically generated according to the channel name. If the channel name is "FOX" then the application will look for "FOX.png" in the static/logos directory.
+The channel logo names are automatically generated according to the channel name. If the channel name is "FOX" then the application will look for "FOX.png" in the "/static/logos" directory.
 
 Favorites
 ===
